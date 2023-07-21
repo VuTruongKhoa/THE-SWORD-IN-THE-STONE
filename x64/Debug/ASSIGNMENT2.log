@@ -1,0 +1,16 @@
+﻿  knight2.cpp
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(364,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(399,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(434,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(469,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(526,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(571,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(608,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(616,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(620,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(652,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(684,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(872,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(877,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\ASSIGNMENT2\knight2.cpp(882,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ASSIGNMENT2.vcxproj -> D:\Môn học học kỳ 2\Programing techniques\ASSIGNMENT2\x64\Debug\ASSIGNMENT2.exe
